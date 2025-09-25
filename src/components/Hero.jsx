@@ -18,7 +18,7 @@ function Hero() {
           <div className="flex justify-center md:justify-start gap-4 flex-wrap">
             <a
               href="#"
-              download="../assets/protfolioProfile.jpg"
+              download="../assets/VAIBHAV_ROKADE_CV.pdf"
               className="bg-yellow-300 text-indigo-900 font-semibold px-6 py-3 rounded-lg shadow-lg hover:bg-yellow-400 transition-all flex items-center gap-3"
             >
               <span>Download CV</span> <FaArrowDown />
